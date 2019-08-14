@@ -1,0 +1,54 @@
+<?xml version="1.0"?>
+<package>
+    <name>Posixtech_Ncp</name>
+    <version>1.0.0.1</version>
+    <stability>stable</stability>
+    <license uri="http://www.posixtech.com/POSIXTECH_LTD_LICENSE.txt">POSIXTECH_LTD_LICENSE</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>If you want to take care your new customer, this module is for you. It will allow you to add a free product.</summary>
+    <description>If you want to run highly flexible promotions for a new customer, this easy to use extension will help you. Go beyond the standard Magento promotion options, it will allow you to offer a free gift (simple or downloadable) product to the automatically into customer cart only for first checkout &#x2013;&lt;br /&gt;&lt;br /&gt;&#xD;
+&#xD;
+Well if you want to setup promotions for a new customer only that either aren't possible in standard Magento, or require combining multiple complex rules to work.&#xD;
+Using this module with fine-grained control over simple and actions to set up creative, targeted promotions. Leave promotion restrictions behind.&#xD;
+&#xD;
+The free gift product will relate with general shipping price and not free shipping product according to default configuration.&#xD;
+&lt;br /&gt;&lt;br /&gt;&#xD;
+&#xD;
+&lt;br /&gt;&#xD;
+&lt;img src="http://store.posixtech.com/media/magento_extension_service/posixtech_guarantee.jpg" /&gt;&lt;br /&gt;&lt;br /&gt;&#xD;
+&lt;b&gt;Customer Experience&lt;/b&gt;&lt;br /&gt;&#xD;
+1.	Free customer support.&lt;br /&gt;&#xD;
+2.	Free extension updates.&lt;br /&gt;&#xD;
+3.	Free bug fixing.&lt;br /&gt;&#xD;
+4.	PE compatibility&lt;br /&gt;&#xD;
+5.	Easy 2-minute installation&lt;br /&gt;&#xD;
+6.	Our code is 100% open source and unencrypted. Easily add your own customizations&lt;br /&gt;&#xD;
+7.	Free upgrades during support period&lt;br /&gt;&#xD;
+8.	Easy to understand user manuals show you how to get the most out of your extension&lt;br /&gt;&#xD;
+9.	Our friendly team provides expert product support and troubleshooting&lt;br /&gt;&lt;br /&gt;&#xD;
+&#xD;
+&#xD;
+Visit Extension Page: &lt;a href="http://store.posixtech.com/gift-for-new-customer.html"&gt;http://store.posixtech.com/gift-for-new-customer.html&lt;/a&gt;&#xD;
+&lt;br /&gt;&lt;br /&gt;&#xD;
+User Guide: &lt;a href="http://store.posixtech.com/gift-for-new-customer.html"&gt; http://store.posixtech.com/gift-for-new-customer.html&lt;/a&gt; &#xD;
+&lt;br /&gt;&lt;br /&gt;&#xD;
+Please, check Magento versions compatibility on the product page!&#xD;
+&lt;br /&gt;&lt;br /&gt;&#xD;
+Themes and extensions releases, updates &amp; promotions &#x2014; follow  &lt;a href="http://www.posixtech.com "&gt;Posixtech&lt;/a&gt; on &lt;a href="http://twitter.com/posixtech"&gt;Twitter&lt;/a&gt; and &lt;a href="https://www.facebook.com/Posixtech"&gt;Facebook&lt;/a&gt;&#xD;
+</description>
+    <notes>Gift for new customer build from scratch to work seamlessly in Magento&#xD;
+&#xD;
+&#x2022;	Version number: 1.0.0.1 &#xD;
+&#x2022;	Stability: Stable &#xD;
+&#x2022;	Compatibility: 1.5, 1.6, 1.6.1, 1.6.2.0, 1.7, 1.8 &#xD;
+&#xD;
+Admin will able configure &#x2018;Gift for new customer&#x2019; related option from System &gt; Configuration &gt; &#x2018;Gift for New Customer&#x2019;.&#xD;
+</notes>
+    <authors><author><name>Posixtech Ltd.</name><user>posixtech</user><email>info@posixtech.com</email></author></authors>
+    <date>2013-12-02</date>
+    <time>09:36:38</time>
+    <contents><target name="magecommunity"><dir name="Posixtech"><dir name="Ncp"><dir name="Block"><dir name="Adminhtml"><dir name="Sales"><dir name="Items"><dir name="Column"><dir name="Downloadable"><file name="Name.php" hash="5bbef5cb5a39206df7c213c81fad571b"/><file name=".DS_Store" hash="4dc3fd858282e5267cf5cec833d15481"/></dir><file name="Name.php" hash="3a4930465b251ac42e5912099d02690a"/><file name=".DS_Store" hash="4dc3fd858282e5267cf5cec833d15481"/></dir><file name=".DS_Store" hash="4ac18eee28c8c9fcb0a4c28aab7b710b"/></dir><file name=".DS_Store" hash="8014761e4f3df08a0e67de20a88c4c17"/></dir><file name=".DS_Store" hash="cd9231b78fe667dc9494f668eab59ee6"/></dir><dir name="Sales"><dir name="Order"><dir name="Item"><dir name="Renderer"><file name="Default.php" hash="1c57fb1ba8798372251f591ae0749e82"/><file name="Downloadable.php" hash="1630015b3a34157de10e93d434781850"/><file name=".DS_Store" hash="dcbabc3593cb871eed8173e1acf2b9c2"/></dir><file name=".DS_Store" hash="92ea3fa99cf2904b4da1257865a58321"/></dir><file name=".DS_Store" hash="94a7b96cb293727ae297d9bc53757031"/></dir><file name=".DS_Store" hash="2946788498b3a879c46c41acecfa245f"/></dir><file name=".DS_Store" hash="433d2ce801b611651eebc00b6e54d539"/></dir><dir name="Helper"><file name="Data.php" hash="b2f9aa796853f15aeed76c45f7e0a2c2"/><file name=".DS_Store" hash="5cc9b356b8566590d84d1a846226a1e1"/></dir><dir name="Model"><file name="Observer.php" hash="afc1d4de9768656dcf04b729679ab478"/><file name=".DS_Store" hash="78324b2382ec00241b369f1f84f73039"/></dir><dir name="etc"><file name="adminhtml.xml" hash="92ee3d94732ad704c69c3a4b117e2a2d"/><file name="config.xml" hash="5d705be527039c4adc5959592a41a6bb"/><file name="system.xml" hash="ebb0257cf6d6530a3511d869e06d638b"/><file name=".DS_Store" hash="e643d5a147d51957f89005b37bebc28c"/></dir><file name=".DS_Store" hash="d59e4a930456777da82234c1b6f92878"/></dir><file name=".DS_Store" hash="65cf5f12860844f5a63eccc006d6d1df"/></dir></target><target name="mageetc"><dir name="modules"><file name="Posixtech_Ncp.xml" hash="f72bf039ce6caf8cf879051059902f16"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.1.0</min><max>6.0.0</max></php></required></dependencies>
+</package>

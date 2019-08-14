@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Posixtech_Ncp",
+    "type": "magento-module",
+    "license": "POSIXTECH_LTD_LICENSE",
+    "homepage": "",
+    "description": "If you want to take care your new customer, this module is for you. It will allow you to add a free product.",
+    "authors": [
+    {
+        "name": "Posixtech Ltd.",
+        "email": "info@posixtech.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
